@@ -6,7 +6,7 @@
  */
 
 /**
- * Select the minimum number every time and place it in appropriate position.
+ * Select the minimum number every time and swap with current position.
  * @Complexity O(n2)
  * @param {Array} array Array of numbers to
  */
